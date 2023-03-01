@@ -14,7 +14,7 @@ Rename commit after amking the commit: `git commit --amend -m "new name of the c
 > Forget to add somenthing and already made the commit?<br>
 > `git add thethingyouforgot` `git commit --amend -m "name of the commit`
 ****
-### 🌿Brach<br>
+### 🌿Branch<br>
 New branch: `git checkout branch_name`
 ****
 ### 🤷Gitgnore<br>
