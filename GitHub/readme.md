@@ -7,12 +7,17 @@
 ### ➕Add changes<br>
 All: `git add .`<br>
 Specific: `git add file_name.html`
+> Add something that wasn't meant to be added?<br>
+> `git restore --staged file_name`
 ****
 ### 👍Commit<br>
 Commit after add: `git commit -m "name of the commit"`<br>
-Rename commit after amking the commit: `git commit --amend -m "new name of the commit`
+Rename commit after making the commit: `git commit --amend -m "new name of the commit`
 > Forget to add somenthing and already made the commit?<br>
-> `git add thethingyouforgot` `git commit --amend -m "name of the commit`
+> `git add thethingyouforgot` `git commit --amend -m "name of the commit` <br>
+
+> Want to comeback to the past commit?<br>
+> `git reset HEAD^ --hard` <br>
 ****
 ### 🌿Branch<br>
 New branch: `git checkout branch_name`
@@ -24,5 +29,5 @@ New branch: `git checkout branch_name`
 ***
 ### 🪠Useful<br>
 `git status`
-`git log -number`
+`git log -number_of_commits`
 `git log --online`
