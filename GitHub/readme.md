@@ -2,7 +2,11 @@
 
 ----
 ### 🚩Initialize a remote repository<br>
-`git init`
+`git init`<br>
+````sh
+git init
+git remote add origin 
+````
 ****
 ### ➕Add changes<br>
 All: `git add .`<br>
