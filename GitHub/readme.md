@@ -1,8 +1,5 @@
 <img height="70" src="https://git-scm.com/images/logos/downloads/Git-Logo-White.png"> 
 
-[]
-
-<
 ----
 ### 🚩Initialize a remote repository<br>
 `git init`
