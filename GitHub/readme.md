@@ -36,7 +36,7 @@ Delete: `git branch -d branch_name`
 `git status`
 `git log -number_of_commits`
 `git log --online`
-
+****
 ### Merge<br>
 `git merge brach_name`
 
@@ -44,17 +44,16 @@ Delete: `git branch -d branch_name`
 `git tag v1.0`
 `git push origin v1.0`
 `git checkout v1.0`
-
-
+****
 ## Rebase<br>
 `git rebase branch_name`
-
+****
 ## Fetch
 `git fetch`
-
+****
 ## Pull<br>
 Pull = Fetch + Rebase<br>
 `git fetch`
+****
 
-##
 
